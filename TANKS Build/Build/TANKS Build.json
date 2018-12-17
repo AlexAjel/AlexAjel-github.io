@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "TANKS",
+"dataUrl": "TANKS Build.data.unityweb",
+"wasmCodeUrl": "TANKS Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "TANKS Build.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
